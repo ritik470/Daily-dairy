@@ -1,0 +1,163 @@
+8/07/24
+What is Web Designing?
+Presenting content / information online, for any business / organization in 
+the form of a website.
+
+What are the technologies used in Web Designing?
+HTML + CSS + Java Script
+
+HTML:-
+HTML (HyperText Markup Language), is used to create the Basic Structure and content of a webpage
+
+CSS:-
+CSS (Cascading Style Sheets) is used for the design of a webpage – where everything is placed and how it 
+looks.
+
+Java Script:-
+JavaScript is used to define the interactive of a webpage that help to engage users.
+
+9/07/24
+Process of Web Designing 
+1• Strategy
+ • Site Development
+ • Target Audience
+
+2• Content
+ • Information Design
+
+3• Sketch it
+ •Graphic Look & feel
+
+4• Content Testing
+ • Images Testing
+ • Browers Testing
+
+5•Domain
+ •Hosting
+
+Conceptualize & Research
+Create & Organize
+Develop Look & Feel
+Testing
+Lunch Website
+10/07/24
+Types of Web Site:-
+Dynamic Website
+Static Website
+
+Static Website:-
+ It only displays Information
+ Quick to develop & easy to host
+ Less number of pages
+ No Frequent Modifications
+ Rare updates & It is manually done only by designer
+ Technologies used in Static Websites : HTML + CSS + JS
+
+Dynamic Website:-
+ Deals with Database & Logic
+ Time consuming & requires developers with full scripting Skills
+ Multiple number of pages
+ Automatic updates
+ Technologies used in Dynamic Websites : PHP, ASP, MySQL etc
+Example: E-commerce websites, Job Portals etc
+
+11/07/24
+How a Website Works
+website visitor->domain name->webserver->website
+
+Domain & Hosting
+
+Domain 
+A domain is giving a name to a website.
+It is registering on internet.
+Hosting
+This is where the website will be used.
+Server connected to Domain Name.
+15/07/24
+Html basic
+HTML Document
+<!DOCTYPE html>
+<html>
+<body>
+<h1>This is TCA Training & Development</h1>
+<p> We provide Industrial & Corporate Training and works on different 
+Industry Projects.<p>
+</body>
+</html>
+Html Headings-
+<!DOCTYPE html>
+<html>
+<body>
+<h1>TCA Provides Training For</h1>
+<h2>CSE/IT Branch</h2>
+<h3>Civil Branch</h3>
+<h4>Mechanical Branch</h4>
+<h5>EC/EE Branch</h5>
+<h6>Diploma Holders</h6>
+</body>
+</html>
+
+Html Marquee tags-
+<html>
+<head>
+<title>HTML Link</title>
+<body>
+<h1 style="text-align:center;">Marque</h1>
+<h2 style="color:blue;"><marquee>This is Marquee</marquee></h2>
+<h2 style="color:green;"><marquee width=50%>This Marquee is half of Screen</marquee></h2>
+<h2 style="color:red;"><marquee direction="right">Marquee Right Side</marquee></h2>
+<h2 style="color:purple;"><marquee direction="up">Marquee Up</marquee></h2>
+<h2 style="color:lime;"><marquee direction="down">Marquee Down</marquee></h2>
+</body>
+</head>
+</html>
+
+16/07/24
+HTML Paragraphs
+
+<!DOCTYPE html>
+<html>
+<body>
+<h1>About TCA</h1>
+<p>TCA Gurgaon is the best training institute in Gurgaon for project-
+based industrial training, skill development & corporate trainings. 
+TCA Gurgaon is one of the leading training institute in Gurgaon to 
+learn cutting-age technology. We here at TCA provides best 
+infrastructure to develop and deploy your projects during your 
+industrial training in Gurgaon. </p>
+</body>
+</html>
+HTML Paragraphs with Break Line<br>
+<!DOCTYPE html>
+<html>
+<body>
+<h1>About TCA</h1>
+<p>TCA Gurgaon is the best training institute in Gurgaon for project-
+based industrial training, skill development & corporate 
+trainings.<br> TCA Gurgaon is one of the leading training institute in 
+Gurgaon to learn cutting-age technology. <br> We here at TCA 
+provides best infrastructure to develop and deploy your projects during 
+your industrial training in Gurgaon. </p>
+</body>
+</html>
+HTML Links
+<!DOCTYPE html>
+<html>
+<body>
+<h1> This is Heading</h1>
+<a href="hare.html">Hare File</a>
+</body>
+</html>
+
+HTML Links another example
+<!DOCTYPE html>
+<html>
+<body>
+<h1>How to create links in HTML</h1>
+<p> Links moves you from one page to another page</p>
+<a href = "https://www.tcagurgaon.in">TCA</a>
+</body>
+</html>
+
+18/07/24
+
